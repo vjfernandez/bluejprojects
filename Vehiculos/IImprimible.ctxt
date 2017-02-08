@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ imprimir()
+comment0.text=\r\n\ En\ la\ interface\ tambi\u00E9n\ se\ pueden\ poner\ comentarios\ de\ javadoc\r\n\ \r\n\ @return\ \ Una\ cadena\ con\ informaci\u00F3n\ formateada\ acerca\ de\ los\ veh\u00EDculos\ \r\n
+numComments=1

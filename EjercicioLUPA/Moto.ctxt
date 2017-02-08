@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=matr\ nk
+comment0.target=Moto(java.lang.String,\ int)
+comment1.params=matricula
+comment1.target=void\ setMatricula(java.lang.String)
+comment10.params=kmRemitente\ kmDestino
+comment10.target=void\ repartir(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getMatricula()
+comment3.params=numKilometros
+comment3.target=void\ setNumKilometros(int)
+comment4.params=
+comment4.target=int\ getNumKilometros()
+comment5.params=
+comment5.target=double\ getDineroFacturado()
+comment6.params=
+comment6.target=int\ kmQueFaltanHastaRevision()
+comment7.params=d
+comment7.target=void\ setPrecioPorKilometro(double)
+comment8.params=
+comment8.target=double\ getPrecioPorKilometro()
+comment9.params=kmDestino
+comment9.target=void\ repartir(int)
+numComments=11

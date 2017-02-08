@@ -1,0 +1,17 @@
+-- Script de creación de la tabla de ejemplo
+-- Para acceso a datos en el módulo de programación.
+
+
+create table alumno (
+   num_exp int auto_increment primary key,
+   nombre varchar(20),
+   apellido1 varchar(30),
+   apellido2 varchar(30),
+   nota double
+   );
+
+
+insert into alumno(nombre, apellido1, apellido2, nota) values('Paquita', 'Antúnez', 'García', 8.6);
+insert into alumno(nombre, apellido1, apellido2, nota) values('Pepe', 'Pérez', 'López', 5.3);
+insert into alumno(nombre, apellido1, apellido2, nota) values('Luisa', 'Peláez', 'Martínez', 4.9);
+insert into alumno(nombre, apellido1, apellido2, nota) values('Antonio', 'Gomez', 'Fernández', 7.6);

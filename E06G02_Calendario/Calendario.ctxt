@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=mes\ anno
+comment0.target=java.lang.String\ dibujarMes(int,\ int)
+comment0.text=\r\n\ Devuelve\ una\ cadena,\ en\ la\ que\ hay\ un\ mes\ de\ un\ a\u00F1o,\r\n\ formateado\ como\ indica\ el\ ejercicio.<br>\r\n\ \r\n\ No\ hay\ control\ de\ errores.\ Si\ los\ par\u00E1metros\ no\ son\ correctos,\ la\ salida\ es\ indefinida.\r\n\ \r\n\ @param\ mes\ El\ n\u00FAmero\ del\ mes.\ Entre\ 1\ (enero)\ y\ 12\ (diciembre)\r\n\ @param\ anno\ El\ n\u00FAmero\ del\ a\u00F1o.\r\n
+numComments=1

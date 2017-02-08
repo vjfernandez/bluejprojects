@@ -1,0 +1,16 @@
+05-13 19:47:28 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "REGISTRATION" no encontrada
+Table "REGISTRATION" not found; SQL statement:
+SELECT id, first, last, age FROM Registration [42102-171]
+05-13 19:47:47 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "REGISTRATION" no encontrada
+Table "REGISTRATION" not found; SQL statement:
+SELECT id, first, last, age FROM Registration [42102-171]
+05-13 19:48:55 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "ALUMNO" no encontrada
+Table "ALUMNO" not found; SQL statement:
+SELECT num_exp, nombre, apellido1, apellido2 FROM alumno [42102-171]
+05-13 19:49:08 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "ALUMNO" no encontrada
+Table "ALUMNO" not found; SQL statement:
+SELECT num_exp, nombre, apellido1, apellido2 FROM alumno [42102-171]

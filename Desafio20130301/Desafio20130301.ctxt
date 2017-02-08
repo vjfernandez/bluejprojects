@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int[]\ invertirTirandoLosNegativos(int[])
+comment0.text=\r\n\ Procesa\ el\ array\ pasado\ como\ par\u00E1metro,\ de\ tal\ manera\ que\ devuelve\ otro\ array\ que\r\n\ contiene\ los\ mismos\ n\u00FAmeros,\ pero\ excluyendo\ los\ negativos\ y\ en\ orden\ inverso...<br>\r\n\ Por\ ejemplo,\ si\ se\ le\ pasa\ {4,-7,\ 12,\ -4,\ 9}\ devolver\u00E1\ {9,\ 12,\ 4}\r\n\ @param\ n\ el\ array\ de\ entrada\r\n\ @return\ un\ array\ que\ contiene\ los\ no\ negativos\ de\ n,\ pero\ en\ orden\ inverso\ \r\n\ a\ como\ estaban\ en\ n\r\n
+numComments=1

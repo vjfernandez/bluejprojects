@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=dniCliente\ marcaYModelo
+comment0.target=Impresora(java.lang.String,\ java.lang.String)
+comment1.params=d
+comment1.target=void\ setDniCliente(java.lang.String)
+comment10.params=
+comment10.target=double\ getPrecioHoraTecnico()
+comment11.params=
+comment11.target=double\ getImporte()
+comment2.params=
+comment2.target=java.lang.String\ getDniCliente()
+comment3.params=mm
+comment3.target=void\ setMarcaYModelo(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getMarcaYModelo()
+comment5.params=c
+comment5.target=void\ setCompletado(boolean)
+comment6.params=
+comment6.target=boolean\ getCompletado()
+comment7.params=ht
+comment7.target=void\ setHorasTecnico(double)
+comment8.params=
+comment8.target=double\ getHorasTecnico()
+comment9.params=pht
+comment9.target=void\ setPrecioHoraTecnico(double)
+numComments=12

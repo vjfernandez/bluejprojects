@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=matricula\ descripcion\ anno\ precio\ cilindrada
+comment0.target=Moto(java.lang.String,\ java.lang.String,\ int,\ double,\ int)
+comment0.text=\r\n\ Constructor\ para\ la\ clase\ que\ inicializa\ las\ propiedades,\ y\ que\ llama\ en\ cadena\ al\ constructor\ de\ la\ clase\ antecesora\r\n
+comment1.params=
+comment1.target=Moto()
+comment1.text=\r\n\ Constructor\ sin\ par\u00E1metros\ para\ la\ clase\ Moto\r\n
+comment2.params=
+comment2.target=int\ getCilindrada()
+comment2.text=\r\n\ Devuelve\ la\ cilindrada\ de\ una\ moto\r\n\ @return\ la\ cilindrada\ de\ una\ moto\ en\ cent\u00EDmetros\ c\u00FAbicos\r\n
+comment3.params=cilindrada
+comment3.target=void\ setCilindrada(int)
+comment3.text=\r\n\ Establece\ la\ cilindrada\ de\ una\ moto.\r\n\ @param\ cilindrada\ La\ cilindrada,\ que\ ser\u00E1\ la\ que\ se\ almacene\ en\ el\ veh\u00EDculo\r\n
+comment4.params=
+comment4.target=java.lang.String\ getTipoVehiculo()
+comment4.text=\r\n\ Vamos\ a\ hacer\ overriding\ del\ m\u00E9todo\ getTipoVehiculo()\ para\ que\ conteste\r\n\ correctamente,\ dado\ que\ \u00E9sta\ clase\ no\ es\ abstracta\r\n\ @return\ "MOTO"...\ tal\ cual\r\n
+comment5.params=
+comment5.target=java.lang.String\ imprimir()
+comment5.text=\ \r\n\ Ahora\ vamos\ a\ reescribir\ el\ m\u00E9todo\ imprimir()\ recibido\ de\ la\ clase\ Veh\u00EDculo,\ pero\r\n\ vamos\ a\ aprovechar\ lo\ recibido,\ mediante\ la\ palabra\ reservada\ super.\r\n
+numComments=6

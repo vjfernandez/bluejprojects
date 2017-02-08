@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LogicaColaVeterinario()
+comment0.text=\r\n\ Reemplaza\ este\ comentario\ con\ una\ explicaci\u00F3n\ que\ otro\ programador\ pueda\ entender\ \ \ \ \ *\ Constructor\ que\ inicializa\ la\ l\u00F3gica.\r\n\ de\ manera\ inequ\u00EDvoca.\ En\ el\ constructor\ debes\ inicializar\ los\ datos\ de\ la\ l\u00F3gica,\ es\ decir\r\n\ crear\ la\ instancia\ de\ la\ cola\ de\ Animal.\r\n
+comment1.params=a
+comment1.target=boolean\ annadirAnimalACola(Animal)
+comment1.text=\r\n\ Reemplaza\ este\ comentario\ con\ una\ explicaci\u00F3n\ que\ otro\ programador\ pueda\ entender\r\n\ de\ manera\ inequ\u00EDvoca\r\n\ \r\n\ @param\ a\ reemplaza\ con\ una\ explicaci\u00F3n\ sensata\ de\ lo\ se\ espera\ que\ sea\ el\ par\u00E1metro\ a\r\n\ @return\ reemplaza\ con\ una\ explicaci\u00F3n\ sensata\ de\ lo\ que\ devuelve\ este\ m\u00E9todo\r\n
+comment2.params=
+comment2.target=Animal\ obtenerSiguienteAnimal()
+comment2.text=\r\n\ Reemplaza\ este\ comentario\ con\ una\ explicaci\u00F3n\ que\ otro\ programador\ pueda\ entender\r\n\ de\ manera\ inequ\u00EDvoca\r\n\ \r\n\ @return\ reemplaza\ con\ una\ explicaci\u00F3n\ sensata\ de\ lo\ que\ devuelve\ este\ m\u00E9todo\r\n
+numComments=3

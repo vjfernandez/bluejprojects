@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=s\ p1\ p2
+comment0.target=void\ intercambiar(java.lang.String[],\ int,\ int)
+comment0.text=\r\n\ Intercambia\ los\ elementos\ de\ las\ posiciones\ \ p1\ y\ p2\ del\ array\ s\r\n\ s\u00F3lo\ si\ p2\ debe\ ir\ lexicogr\u00E1ficamente\ delante\ de\ p1.\r\n
+comment1.params=s1\ s2\ s3
+comment1.target=java.lang.String[]\ devolverEnOrden(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

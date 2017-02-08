@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ escogeUnNumero()
+comment0.text=\r\n\ Escoge\ un\ numero\ al\ azar\ entre\ 1\ y\ 15\r\n\ @return\ El\ n\u00FAmero\ escogido\r\n
+comment1.params=n
+comment1.target=boolean\ haSalido(int)
+comment1.text=\r\n\ Comprueba\ si\ ya\ ha\ salido\ un\ n\u00FAmero.\r\n\ \r\n\ @param\ \ n\ El\ n\u00FAmero\ a\ comprobar\r\n\ @return\ true\ si\ el\ n\u00FAmero\ ya\ ha\ salido,\ false\ en\ caso\ contrario.\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ El\ programa\ principal\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

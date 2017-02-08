@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nombre\ v
+comment0.target=Papagallo(java.lang.String,\ boolean)
+comment1.params=nombre
+comment1.target=Papagallo(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=void\ vacunar()
+comment4.params=
+comment4.target=boolean\ getVacunado()
+numComments=5

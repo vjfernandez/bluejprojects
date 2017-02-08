@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ d
+comment0.target=Foo(java.lang.String,\ int)
+comment1.params=y
+comment1.target=void\ setD(int)
+comment2.params=
+comment2.target=int\ getD()
+numComments=3

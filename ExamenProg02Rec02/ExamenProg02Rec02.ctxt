@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=fechaNac
+comment0.target=int\ edad(java.lang.String)
+comment0.text=\r\n\ Soluci\u00F3n\ al\ ejercicio\ utilizando\ compareTo\ para\ saber\ si\ ha\ pasado\r\n\ el\ cumplea\u00F1os\r\n
+comment1.params=fechaNac
+comment1.target=int\ edad2(java.lang.String)
+numComments=2

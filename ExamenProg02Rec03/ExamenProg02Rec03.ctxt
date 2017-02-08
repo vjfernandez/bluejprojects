@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=java.lang.String\ obtenerGrupo(char)
+comment0.text=\r\n\ Obtiene\ el\ grupo\ fon\u00E9tico\ de\ un\ car\u00E1cter\r\n\ \r\n\ @param\ c\ el\ caracter\ de\ entrada\r\n\ @returns\ el\ grupo\ fon\u00E9tico\ entre\ "1"\ y\ "6"\ o\ ""\ si\ no\ se\ encontr\u00F3\r\n
+comment1.params=s
+comment1.target=java.lang.String\ fonetico(java.lang.String)
+numComments=2
