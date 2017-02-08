@@ -19,7 +19,7 @@ public class AppTraza205 {
 
     public void run() {
         String[] bbb = {
-                "volverán",
+                "volveran",
                 "las",
                 "oscuras",
                 "golondrinas"
