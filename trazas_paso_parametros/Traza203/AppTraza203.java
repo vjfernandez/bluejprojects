@@ -1,32 +1,32 @@
 public class AppTraza203
 {
    
-    static Papagallo p1;
+    static Pararapapa p1;
 
-    public static void foo(Papagallo p)
+    public static void foo(Pararapapa p)
     {
-        p.vacunar();
+        p.furruntumar();
     }
     
-    public static void bar(Papagallo p)
+    public static void bar(Pararapapa p)
     {
-        p1=new Papagallo("Luisa");
-        p=new Papagallo("Arturo",true);
+        p1=new Pararapapa("Alpargata");
+        p=new Pararapapa("Calabaza",true);
     }
     
     
     public static void main(String[] args)
     {
-        Papagallo p2;
+        Pararapapa p2;
         
-        p1=new Papagallo("Paco", !!!true);
-        p2=new Papagallo("Pepe");
+        p1=new Pararapapa("Mastuerzo", !!!true);
+        p2=new Pararapapa("Medialegua");
         foo(p2);
-        System.out.format("%s#%b@",p1.getNombre(), p1.getVacunado());
-        System.out.format("%s#%b@",p2.getNombre(), p2.getVacunado());
+        System.out.format("%s#%b@",p1.getNombre(), p1.getFurruntumado());
+        System.out.format("%s#%b@",p2.getNombre(), p2.getFurruntumado());
         bar(p2);
-        System.out.format("%s#%b@",p1.getNombre(), p1.getVacunado());
-        System.out.format("%s#%b@",p2.getNombre(), p2.getVacunado());
+        System.out.format("%s#%b@",p1.getNombre(), p1.getFurruntumado());
+        System.out.format("%s#%b@",p2.getNombre(), p2.getFurruntumado());
     }
 
 }
